@@ -67,7 +67,7 @@ The SDK requires the following dependencies to be added to your `build.gradle.kt
 
 ```kotlin
 dependencies {
-    implementation("com.github.Funsol-Projects:FunGuard-SDK:v1.0.1")
+    implementation("com.github.Funsol-Projects:FunNotify-SDK:v1.0.1")
 }
 ```
 **Other libraries**
